@@ -18,7 +18,7 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân |Scan các painpoint trong việc học, email, sales và research khách hàng; tập trung vào các việc lặp lại và tốn thời gian. | |
+| Scan cá nhân |Scan các painpoint trong việc học, email, sales và research khách hàng; tập trung vào các việc lặp lại và tốn thời gian. |lọc lại theo tiêu chí lặp lại, tốn thời gian,  workflow rõ.|
 | Pitch Problem Card |Pitch problem “Research khách hàng → SWOT”, mô tả actor, workflow hiện tại, bottleneck và AI hypothesis. |Đưa problem này vào nhóm candidate để cùng đánh giá. |
 | Challenge bài của bạn khác |Đặt câu hỏi về việc pain có thực sự đủ lớn không và AI đang giải quyết bottleneck nào thay vì chỉ tự động hóa |Giúp nhìn problem theo góc độ pain → bottleneck → solution, tránh solution-first. |
 | Gom trùng / cluster |So sánh các problem liên quan đến việc tìm kiếm, đọc, lọc và tổng hợp thông tin. |Gom các pain có workflow tương tự, tránh chọn nhiều problem trùng bản chất. |
